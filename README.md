@@ -1,9 +1,7 @@
 # phishing-detection-ensemble
-
 Ensemble-based phishing detection using majority voting
 Phishing Detection is done using XGBoost, Logistic Regression, and Random Forest (Majority Voting)
-
-It utilizes three models — **XGBoost**, **Logistic Regression**, and **Random Forest** — and combines their predictions using **majority voting** to enhance accuracy and minimize false detections.
+It utilizes three models,  **XGBoost**, **Logistic Regression**, and **Random Forest** — and combines their predictions using **majority voting** to enhance accuracy and minimize false detections.
 🚀 Features
 - Combines three ML models for better reliability  
 - Uses majority voting to finalize predictions  
